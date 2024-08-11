@@ -21,10 +21,6 @@ public class App {
 
     public static void main(String[] args) {
         try {
-            System.out.println(Calcular_area_circulo(5));
-            System.out.println(Calcular_salario(40, 10, 5, 20000));
-           
-
     
         } 
         
